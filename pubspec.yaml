@@ -41,6 +41,7 @@ flutter:
     - assets/labels.txt
     - assets/model_unquant.tflite
     - assets/photos/
+    - assets/coverpage.jpg
 
 flutter_launcher_icons:
   android: true
