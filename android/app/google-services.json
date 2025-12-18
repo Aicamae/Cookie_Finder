@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780459309628",
+    "project_id": "canatoybase",
+    "storage_bucket": "canatoybase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780459309628:android:aa78d478de8ad77aefe139",
+        "android_client_info": {
+          "package_name": "com.example.cookieFinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3cfXKTNaPv9W6QzGehPA_GHi3kiqrKoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
