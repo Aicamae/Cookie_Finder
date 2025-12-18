@@ -76,10 +76,11 @@
 
 ### 📁 Project Structure
 
-- **[📱 Mobile App Source Code](lib/)** - Complete Flutter source code
-- **[🖼️ Assets & Resources](assets/)** - Images, ML model, and UI resources
-- **[📖 Documentation](APP_ICON_SETUP.md)** - Setup guides and documentation
-- **[✅ Project TODO](TODO.md)** - Development progress tracker
+- **[📱 Mobile App Source Code](https://github.com/Aicamae/Cookie_Finder/tree/main/lib)** - Complete Flutter source code
+- **[🖼️ Assets & Resources](https://github.com/Aicamae/Cookie_Finder/tree/main/assets)** - Images, ML model, and UI resources
+- **[📸 App Screenshots](https://github.com/Aicamae/Cookie_Finder/tree/main/App-Screenshots)** - Application screenshots
+- **[📖 Documentation](https://github.com/Aicamae/Cookie_Finder/blob/main/APP_ICON_SETUP.md)** - Setup guides and documentation
+- **[✅ Project TODO](https://github.com/Aicamae/Cookie_Finder/blob/main/TODO.md)** - Development progress tracker
 
 ---
 
@@ -99,7 +100,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>🍫 Chocolate Chip Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Classic buttery cookies loaded with sweet chocolate chips; crispy on the edges and soft in the center.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/ccc.jpg" width="100" height="100" alt="Chocolate Chip Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/ccc.jpg" width="100" height="100" alt="Chocolate Chip Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -108,7 +109,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>✨ Sugared Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Soft, chewy cookies coated in granulated sugar, giving them a lightly crisp, sparkly exterior.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/sc.jpg" width="100" height="100" alt="Sugared Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/sc.jpg" width="100" height="100" alt="Sugared Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -117,7 +118,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>❄️ Crinkle Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Soft, fudgy cookies rolled in powdered sugar before baking, creating a cracked "crinkle" pattern on top.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/cc.jpg" width="100" height="100" alt="Crinkle Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/cc.jpg" width="100" height="100" alt="Crinkle Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -126,7 +127,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>🍫🍫 Double Chocolate Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Rich chocolate cookies made with cocoa powder and chocolate chips for a deeper, more intense chocolate flavor.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/dcc.jpg" width="100" height="100" alt="Double Chocolate Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/dcc.jpg" width="100" height="100" alt="Double Chocolate Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -135,7 +136,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>❤️ Red Velvet Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Cookies inspired by red velvet cake—soft, moist, slightly cocoa-flavored, often paired with cream cheese frosting.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/rvc.jpg" width="100" height="100" alt="Red Velvet Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/rvc.jpg" width="100" height="100" alt="Red Velvet Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -144,7 +145,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>🥜 Peanut Butter Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Dense, chewy cookies with a strong peanut butter flavor, usually marked with a crisscross fork pattern.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/pbc.jpg" width="100" height="100" alt="Peanut Butter Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/pbc.jpg" width="100" height="100" alt="Peanut Butter Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -153,7 +154,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>🌀 Pinwheel Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Swirled cookies featuring two contrasting doughs (like vanilla and chocolate) rolled together for a spiral design.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/pc.jpg" width="100" height="100" alt="Pinwheel Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/pc.jpg" width="100" height="100" alt="Pinwheel Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -162,7 +163,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>👍 Thumbprint Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Soft cookies with a small indentation in the center filled with jam, chocolate, or other sweet fillings.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/tc.jpg" width="100" height="100" alt="Thumbprint Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/tc.jpg" width="100" height="100" alt="Thumbprint Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -171,7 +172,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>🌰 Almond Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Light, fragrant cookies made with almond flour or extract, offering a subtle nutty flavor and crispy bite.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/ac.jpg" width="100" height="100" alt="Almond Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/ac.jpg" width="100" height="100" alt="Almond Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -180,7 +181,7 @@
 <td style="padding: 12px; border: 1px solid #ddd;"><strong>🇫🇷 Macaron Cookies</strong></td>
 <td style="padding: 12px; border: 1px solid #ddd;">Delicate French sandwich cookies made with almond flour and meringue, filled with ganache or buttercream.</td>
 <td style="padding: 12px; border: 1px solid #ddd; text-align: center;">
-<img src="assets/photos/mc.jpg" width="100" height="100" alt="Macaron Cookies" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/assets/photos/mc.jpg" width="100" height="100" alt="Macaron Cookies" style="border-radius: 12px;"/>
 </td>
 </tr>
 
@@ -197,28 +198,35 @@
 <p>Explore the features and screens of the Cookie Finder application</p>
 </div>
 
-### 🏠 Cover Page & Welcome Screen
+### 🏠 App Icon, Loading Screen & Cover Page
 <div align="center">
+<a href="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder.jpg" width="600" alt="App Icon, Loading Screen & Cover Page" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #CF5A0C; margin: 20px 0;" />
+</a>
+</div>
 
 **Welcome Experience:**
-- 🎨 Beautiful cover page with background image
-- ✨ Animated "Tap to Find" button
-- 💬 Inspiring cookie quote
-- 🚀 Smooth transition to main app
+<div align="center">
+
+| Feature | Description |
+|---------|-------------|
+| 🎨 **App Icon** | Beautiful cookie-themed app icon |
+| ⏳ **Loading Screen** | Smooth splash screen on startup |
+| 📖 **Cover Page** | Animated welcome with inspiring quote |
+| 🚀 **Tap to Find** | Interactive button to enter the app |
 
 </div>
 
 ---
 
-### 📱 Main Scan Interface
+### 📱 Scan/Gallery, Analytics & History
 <div align="center">
-
-<!-- Add your screenshot here -->
-<!-- <img src="screenshots/main_scan.png" width="300" alt="Main Scan Interface" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #CF5A0C;"/> -->
-
+<a href="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder1.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder1.jpg" width="600" alt="Scan, Analytics & History" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #02569B; margin: 20px 0;" />
+</a>
 </div>
 
-**Primary Features:**
+**Core Features:**
 <div align="center">
 
 | Feature | Description |
@@ -226,73 +234,32 @@
 | 📸 **Camera Scan** | Take a photo of any cookie for instant classification |
 | 🖼️ **Gallery Upload** | Select existing images from your device |
 | 🍪 **Cookie Collection** | Browse all 10 supported cookie types |
+| 📊 **Analytics Dashboard** | Track scans, view charts and statistics |
+| 📜 **History Page** | Chronological record of all detections |
 | 💡 **Quick Tips** | Helpful scanning guidelines |
 
 </div>
 
 ---
 
-### 📊 Analytics Dashboard
+### 🔍 Results, Categories, Distribution & Delete
 <div align="center">
-
-<!-- Add your screenshot here -->
-<!-- <img src="screenshots/analytics.png" width="300" alt="Analytics Dashboard" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #02569B;"/> -->
-
+<a href="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder2.jpg" target="_blank">
+<img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder2.jpg" width="600" alt="Results & Analytics Details" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #FFCA28; margin: 20px 0;" />
+</a>
 </div>
 
-**Data Visualization Features:**
+**Advanced Features:**
 <div align="center">
 
 | Feature | Description |
 |---------|-------------|
-| 📈 **Total Scans** | Track all your cookie scans |
-| 🏆 **Top Categories** | See your most detected cookies |
-| 📊 **Donut Chart** | Visual distribution of scan history |
-| 🎯 **Avg Accuracy** | Monitor classification confidence |
-
-</div>
-
----
-
-### 📜 History Page
-<div align="center">
-
-<!-- Add your screenshot here -->
-<!-- <img src="screenshots/history.png" width="300" alt="History Page" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #FFCA28;"/> -->
-
-</div>
-
-**History Features:**
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| 🕐 **Timeline** | Chronological scan history |
-| 🖼️ **Scan Images** | View captured cookie photos |
-| 📊 **Confidence Score** | Accuracy for each detection |
-| 🗑️ **Delete Entries** | Remove unwanted records |
-
-</div>
-
----
-
-### 🔍 Classification Results
-<div align="center">
-
-<!-- Add your screenshot here -->
-<!-- <img src="screenshots/results.png" width="300" alt="Results Screen" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); border: 3px solid #8E24AA;"/> -->
-
-</div>
-
-**Result Features:**
-<div align="center">
-
-| Feature | Description |
-|---------|-------------|
-| 🍪 **Cookie Name** | Identified cookie type |
+| 🍪 **Cookie Name** | Identified cookie type with confidence |
 | 📊 **Distribution** | Top 5 prediction probabilities |
+| 🏆 **Top Categories** | Most detected cookie types ranked |
+| 📈 **Donut Chart** | Visual scan distribution |
+| 🗑️ **Delete Function** | Remove unwanted history entries |
 | ⚠️ **Unknown Detection** | Warns if image isn't a cookie |
-| 💾 **Save to History** | Store results in Firebase |
 
 </div>
 
@@ -388,10 +355,10 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/cookie-finder.git
+git clone https://github.com/Aicamae/Cookie_Finder.git
 
 # 2. Navigate to project directory
-cd cookie-finder/myapp
+cd Cookie_Finder
 
 # 3. Install dependencies
 flutter pub get
@@ -409,7 +376,7 @@ flutter run
 ## 📁 Project Structure
 
 ```
-myapp/
+Cookie_Finder/
 ├── lib/
 │   └── main.dart              # Main application code
 ├── assets/
@@ -418,6 +385,10 @@ myapp/
 │   ├── photos/                # Cookie type images
 │   ├── background.jpeg        # App background
 │   └── coverpage.jpg          # Cover page background
+├── App-Screenshots/
+│   ├── CookieFinder.jpg       # App icon, loading, cover page
+│   ├── CookieFinder1.jpg      # Scan, analytics, history
+│   └── CookieFinder2.jpg      # Results, categories, delete
 ├── tools/
 │   ├── icon_preview.dart      # Icon preview tool
 │   └── README.md              # Tools documentation
@@ -445,28 +416,26 @@ myapp/
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Watch the Full Project Demo
 
 <div align="center">
+<h3>Cookie Finder - Complete Walkthrough</h3>
+<p>Watch my detailed explanation and demonstration of the entire application</p>
 
-<!-- Add your YouTube video link here -->
-<!--
-<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+<a href="https://youtu.be/mNHqEKMSvYo" target="_blank">
   <img 
-    src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
+    src="https://img.youtube.com/vi/mNHqEKMSvYo/maxresdefault.jpg" 
     alt="Cookie Finder Demo Video" 
     style="width: 80%; max-width: 800px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); border: 3px solid #CF5A0C;"
+    onerror="this.onerror=null; this.src='https://img.youtube.com/vi/mNHqEKMSvYo/hqdefault.jpg'"
   />
 </a>
 
 <br/><br/>
 
-<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+<a href="https://youtu.be/mNHqEKMSvYo" target="_blank">
   <img src="https://img.shields.io/badge/▶️_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
--->
-
-*Demo video coming soon!*
 
 </div>
 
@@ -476,12 +445,12 @@ myapp/
 
 <div align="center">
 
-| Cover Page | Main Screen | Analytics | History |
-|:----------:|:-----------:|:---------:|:-------:|
-| <!-- img --> | <!-- img --> | <!-- img --> | <!-- img --> |
-| Welcome & Quote | Scan Interface | Data Charts | Scan Records |
+| App Icon & Cover Page | Scan & Analytics | Results & Features |
+|:---------------------:|:----------------:|:------------------:|
+| <a href="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder.jpg"><img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder.jpg" width="250"/></a> | <a href="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder1.jpg"><img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder1.jpg" width="250"/></a> | <a href="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder2.jpg"><img src="https://raw.githubusercontent.com/Aicamae/Cookie_Finder/main/App-Screenshots/CookieFinder2.jpg" width="250"/></a> |
+| Icon, Loading, Cover | Scan, Analytics, History | Results, Categories, Delete |
 
-*Add your screenshots to the `screenshots/` folder*
+*Click images to view full size*
 
 </div>
 
@@ -503,8 +472,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
 
-📧 **your.email@example.com**  
-🌐 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+📧 **jamaica.canatoy@csucc.edu.ph**  
+📱 **09930466595**  
+🌐 [GitHub](https://github.com/Aicamae) | [Facebook](https://www.facebook.com/jamaica.canatoy.7)
 
 </div>
 
